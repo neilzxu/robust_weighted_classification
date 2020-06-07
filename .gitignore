@@ -1,0 +1,11 @@
+.*
+!.gitignore
+*.model
+__pycache__/
+/**/__pycache__/
+models/
+tmp/
+*.pkl
+*.state
+wandb/
+uci_data/
